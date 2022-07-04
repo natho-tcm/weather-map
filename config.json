@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "city_id": 2643743,
+      "city_name": "London",
+      "frequency": 40,
+      "threshold": 10
+    },
+    {
+      "city_id": 293397,
+      "city_name": "Tel Aviv",
+      "frequency": 30,
+      "threshold": 2
+    },
+    {
+      "city_id": 625142,
+      "city_name": "Minsk",
+      "frequency": 40,
+      "threshold": 10
+    },
+    {
+      "city_id": 2988506,
+      "city_name": "Paris",
+      "frequency": 60,
+      "threshold": 10
+    },
+    {
+      "city_id": 5128581,
+      "city_name": "New York",
+      "frequency": 50,
+      "threshold": 10
+    }
+  ]
+}
